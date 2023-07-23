@@ -3,7 +3,14 @@
 
 // VARIABLES
 $main-font: Arial, sans-serif;
-$main-color: #333;
+$main-color: #02132C;
+$color1:#02132C;
+$color2:#063375;
+$color3:#0a52bd;
+$color4:#F5AE43;
+$color5:#F9CD8C;
+$color6:#FDEDD5;
+
 
 // DEFINICION DE ESTILOS
 .container {
@@ -20,13 +27,26 @@ $main-color: #333;
     flex: 1;
     padding: 10px;
     text-align: center;
-    border: 2px solid $main-color;
+    border: 50px solid $main-color;
     margin: 5px;
+    background: linear-gradient(45deg,black,rgba(0, 0, 255, 0.396));
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    a{
+        color:white;
+        text-decoration: none;
+    }
+    
+    
+}
+.col:hover{
+    transition: 1s;
 }
 
 .border-dark-subtle {
-    border-color: darken($main-color, 20%);
+    border-color: darken($main-color, 80%);
 }
+
 
 .m-1 {
     margin: 1px;
@@ -40,15 +60,15 @@ $main-color: #333;
     margin: 5px;
 }
 
-.p-1 {
-    padding: 1px;
-}
-
-.p-2 {
-    padding: 2px;
+/*BUCLES*/
+@for $i from 1 to 3 {
+    .p-#{$i} {
+        padding: 0px + $i;
+    }
 }
 
 .display-6 {
     font-size: 1.5rem;
     font-weight: bold;
 }
+

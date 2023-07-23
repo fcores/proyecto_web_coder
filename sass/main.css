@@ -1,7 +1,7 @@
 /* styles.scss */
 .container {
   font-family: Arial, sans-serif;
-  color: #333;
+  color: #02132C;
 }
 
 .row {
@@ -13,8 +13,19 @@
   flex: 1;
   padding: 10px;
   text-align: center;
-  border: 2px solid #333;
+  border: 50px solid #02132C;
   margin: 5px;
+  background: linear-gradient(45deg, black, rgba(0, 0, 255, 0.396));
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+.col a {
+  color: white;
+  text-decoration: none;
+}
+
+.col:hover {
+  transition: 1s;
 }
 
 .border-dark-subtle {
@@ -33,6 +44,7 @@
   margin: 5px;
 }
 
+/*BUCLES*/
 .p-1 {
   padding: 1px;
 }
