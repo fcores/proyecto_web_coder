@@ -1,0 +1,54 @@
+/* styles.scss */
+
+
+// VARIABLES
+$main-font: Arial, sans-serif;
+$main-color: #333;
+
+// DEFINICION DE ESTILOS
+.container {
+    font-family: $main-font;
+    color: $main-color;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.col {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid $main-color;
+    margin: 5px;
+}
+
+.border-dark-subtle {
+    border-color: darken($main-color, 20%);
+}
+
+.m-1 {
+    margin: 1px;
+}
+
+.m-2 {
+    margin: 2px;
+}
+
+.m-5 {
+    margin: 5px;
+}
+
+.p-1 {
+    padding: 1px;
+}
+
+.p-2 {
+    padding: 2px;
+}
+
+.display-6 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
