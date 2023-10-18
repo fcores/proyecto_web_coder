@@ -1,0 +1,262 @@
+[
+    {
+        "tipo":"gamer",
+        "detalle":[
+            {
+                "id": 1,
+                "componente":"Motherboard",
+                "descripcion": "MOTHERBOARD 1700 12°GEN ASUS",
+                "precio": 150000,
+                "imagen":"mother_1700.png"
+            },
+            {
+                "id": 2,
+                "componente":"Placa",
+                "descripcion": "PLACA DE VIDEO GEFORCE RTX 3070 TI 8G",
+                "precio": 300000,
+                "imagen":"rtx_3070.png"
+            },
+            {
+                
+                "id": 3,
+                "componente":"Fuente",
+                "descripcion": "FUENTE MASTER 1050W",
+                "precio": 80000,
+                "imagen":"fuente_1050.png"
+            },
+            {
+                "id": 4,
+                "componente":"Gabinete",
+                "descripcion": "GABINETE TOWER THERMALTAKE S300",
+                "precio": 80000,
+                "imagen":"gabinete_s300.png"
+            },
+            {
+                "id": 5,
+                "componente":"Procesador",
+                "descripcion":"PROCESADOR INTEL CORE I7 12700K 5.0 GHZ",
+                "precio": 250000,
+                "imagen":"intel_i7.png"
+            },
+            {
+                "id": 6,
+                "componente":"Memoria",
+                "descripcion": "MEMORIA RAM DDR4 - 16GB 3200",
+                "precio": 50000,
+                "imagen":"memoria_16gb.png"
+            },
+            {
+                "id": 7,
+                "componente":"Cooler",
+                "descripcion": "COOLER-MASTER-MASTERFAN-MF120-S3",
+                "precio": 10000,
+                "imagen":"master_fan.png"
+            },
+            {
+                "id": 8,
+                "componente":"SistemaOperativo",
+                "descripcion": "WINDOWS 10 PRO",
+                "precio": 80000,
+                "imagen":"windows_10.png"
+            },
+            {
+                "id": 9,
+                "componente":"Teclado",
+                "descripcion": "TECLADO LOGITECH V3",
+                "precio": 15000,
+                "imagen":"teclado.png"
+            },
+            {
+                "id": 10,
+                "componente":"Mouse",
+                "descripcion": "MOUSE LOGITECH V3",
+                "precio": 15000,
+                "imagen":"mouse.png"
+            },
+            {
+                "id": 11,
+                "componente":"Monitor",
+                "descripcion":"MONITOR DELL 27",
+                "precio": 100000,
+                "imagen":"monitor.png"
+            },
+            {
+                "id": 12,
+                "componente":"Auriculares",
+                "descripcion":"AURICULARES JBL",
+                "precio": 5000,
+                "imagen":"auriculares.png"
+            }
+        ]
+    },
+    {
+        "tipo":"escritorio",
+        "detalle":[
+            {
+                "id": 1,
+                "componente":"Motherboard",
+                "descripcion": "MOTHERBOARD 1700 12°GEN ASUS",
+                "precio": 150000,
+                "imagen":"mother_1700.png"
+            },
+            {
+                "id": 2,
+                "componente":"Placa",
+                "descripcion": "PLACA DE VIDEO GEFORCE RTX 1070 TI 8G",
+                "precio": 120000,
+                "imagen":"rtx_1070.png"
+            },
+            {
+                
+                "id": 3,
+                "componente":"Fuente",
+                "descripcion": "FUENTE MASTER 700W",
+                "precio": 60000,
+                "imagen":"fuente_700.png"
+            },
+            {
+                "id": 4,
+                "componente":"Gabinete",
+                "descripcion": "GABINETE TOWER THERMALTAKE S300",
+                "precio": 80000,
+                "imagen":"gabinete_s300.png"
+            },
+            {
+                "id": 5,
+                "componente":"Procesador",
+                "descripcion":"PROCESADOR INTEL CORE I3 12700K 5.0 GHZ",
+                "precio": 140000,
+                "imagen":"inter_i3.png"
+            },
+            {
+                "id": 6,
+                "componente":"Memoria",
+                "descripcion": "MEMORIA RAM DDR4 - 8GB 3200",
+                "precio": 25000,
+                "imagen":"memoria_8gb.png"
+            },
+            {
+                "id": 7,
+                "componente":"Cooler",
+                "descripcion": "COOLER-MASTER-MASTERFAN-MF120-S3",
+                "precio": 10000,
+                "imagen":"mother_1700.png"
+            },
+            {
+                "id": 8,
+                "componente":"SistemaOperativo",
+                "descripcion": "WINDOWS 10 PRO",
+                "precio": 80000,
+                "imagen":"mother_1700.png"
+            },
+            {
+                "id": 9,
+                "componente":"Teclado",
+                "descripcion": "TECLADO LOGITECH V3",
+                "precio": 15000,
+                "imagen":"mother_1700.png"
+            },
+            {
+                "id": 10,
+                "componente":"Mouse",
+                "descripcion": "MOUSE LOGITECH V3",
+                "precio": 15000,
+                "imagen":"mother_1700.png"
+            },
+            {
+                "id": 11,
+                "componente":"Monitor",
+                "descripcion":"MONITOR DELL 27",
+                "precio": 100000,
+                "imagen":"mother_1700.png"
+            },
+            {
+                "id": 12,
+                "componente":"Auriculares",
+                "descripcion":"AURICULARES JBL",
+                "precio": 5000,
+                "imagen":"mother_1700.png"
+            }
+        ]
+    },
+    {
+        "tipo":"a_medida",
+        "detalle":[
+            {
+                "id": 1,
+                "componente":"Motherboard",
+                "descripcion": "",
+                "precio": 0
+            },
+            {
+                "id": 2,
+                "componente":"Placa",
+                "descripcion": "",
+                "precio": 0
+            },
+            {
+                
+                "id": 3,
+                "componente":"Fuente",
+                "descripcion": "",
+                "precio": 0
+            },
+            {
+                "id": 4,
+                "componente":"Gabinete",
+                "descripcion": "",
+                "precio": 0
+            },
+            {
+                "id": 5,
+                "componente":"Procesador",
+                "descripcion":"",
+                "precio": 0
+            },
+            {
+                "id": 6,
+                "componente":"Memoria",
+                "descripcion": "",
+                "precio": 0
+            },
+            {
+                "id": 7,
+                "componente":"Cooler",
+                "descripcion": "",
+                "precio": 0
+            },
+            {
+                "id": 8,
+                "componente":"SistemaOperativo",
+                "descripcion": "",
+                "precio": 0
+            },
+            {
+                "id": 9,
+                "componente":"Teclado",
+                "descripcion": "",
+                "precio": 0
+            },
+            {
+                "id": 10,
+                "componente":"Mouse",
+                "descripcion": "",
+                "precio": 0
+            },
+            {
+                "id": 11,
+                "componente":"Monitor",
+                "descripcion":"",
+                "precio": 0
+            },
+            {
+                "id": 12,
+                "componente":"Auriculares",
+                "descripcion":"",
+                "precio": 0
+            }
+        ]
+    }
+
+
+]
